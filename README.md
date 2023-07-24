@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **anyafi26@gmail.com**
 
-- 📄 Know about my experiences 
-
 - ⚡ When I'm not coding **I enjoy snowboarding 🏂, regatta and fashion**
 
 
