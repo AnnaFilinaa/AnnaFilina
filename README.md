@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anna Filina</h1>
-<h3 align="center">I'm a ML Engineer</h3>
+<h1 align="center">Hi, I'm Anna Filina</h1>
+<h3 align="center">I'm a Data Scientist</h3>
 
-- 🌱 I'm interested in **Machine Learning, NLP, CV, Automation, MLOps**
+- 🌱 I'm interested in **Machine Learning, NLP, CV, MLOps**
 
 - 📫 How to reach me **anyafi26@gmail.com**
 
